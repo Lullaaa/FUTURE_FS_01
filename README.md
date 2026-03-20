@@ -1,8 +1,8 @@
 # Leul Zemede | Personal Portfolio Website
 
-This is my personal portfolio website - an aspiring **Full Stack Developer** and third-year **Information Systems** student at **Addis Ababa University**.  
+This is the personal portfolio website of **Leul Zemede**, an aspiring **Full Stack Developer** and third-year **Information Systems** student at **Addis Ababa University**.  
 
-It showcases my’s **skills, projects, and professional profile** in a modern, responsive design.
+It showcases Leul’s **skills, projects, and professional profile** in a modern, responsive design.
 
 ---
 
@@ -21,6 +21,12 @@ It showcases my’s **skills, projects, and professional profile** in a modern, 
 
 ---
 
+## 🔗 Live Website
+
+Check out the live portfolio: [Leul Zemede Portfolio](https://lullaaa.github.io/FUTURE_FS_01/)  
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React.js (planned)
@@ -29,4 +35,11 @@ It showcases my’s **skills, projects, and professional profile** in a modern, 
 
 ---
 
-## 📂 Folder Structure
+## 📬 Contact
+
+- Email: [leulzemede11@gmail.com](mailto:leulzemede11@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/leul-zemede](https://www.linkedin.com/in/leul-zemede)
+
+---
+
+> Built to demonstrate practical web development skills, modern UI design, and professional project presentation.
